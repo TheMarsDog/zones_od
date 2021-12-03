@@ -137,7 +137,7 @@
 				<Title>zones_od</Title>
 				<Abstract>GH:zones_od ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/TheMarsDog/zones_od/releases/download/Map_Download/zones_od.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/TheMarsDog/zones_od/releases/download/Map_Download/zones_od.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-17.10437270698988" miny="20.71960663037979" maxx="-1.0209429048622827" maxy="35.92281915079109"></LatLonBoundingBox>
